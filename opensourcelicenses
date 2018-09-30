@@ -1,0 +1,30 @@
+<style type="text/css">
+<!--
+.style1 {color: #0099CC}
+.style2 {
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.style3 {
+	color: #FF0000;
+	background-color: #FFFF00;
+}
+-->
+</style>
+	<div align="center">
+	  <h2 class="style3">OPEN SOURCE LICENSES      </h2>
+	</div>
+<h2 align="center" class="style1">Cling </h2>
+<p align="center" class="style2"> http://4thline.org/projects/cling/  </p>
+<h2 align="center" class="style1">Glide</h2>
+<p align="center" class="style2"> https://github.com/bumptech/glide </p>
+<h2 align="center" class="style1">Dotted Progress Bar  </h2>
+<p align="center" class="style2">https://github.com/igortrncic/dotted-progress-bar</p>
+<h2 align="center" class="style1"> InteractivePlayerView </h2>
+<p align="center" class="style2">https://github.com/iammert/InteractivePlayerView  </p>
+<h2 align="center" class="style1">NannoHttpd</h2>
+<p align="center" class="style2"> https://github.com/NanoHttpd/nanohttpd  </p>
+<h2 align="center" class="style1">dd.plist</h2>
+<p align="center" class="style2"> https://github.com/3breadt/dd-plist</p>
+<h2 align="center" class="style1"> jmDNS </h2>
+<p align="center" class="style2">https://github.com/jmdns/jmdns </p>
